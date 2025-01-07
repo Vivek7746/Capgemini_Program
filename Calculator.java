@@ -1,5 +1,6 @@
-class first{
+import java.util.*;
+public class Calculator{
     public static void main(String args[]){
-        System.out.println("helll world");
+        int x = 19, y = 80;
     }
 }
