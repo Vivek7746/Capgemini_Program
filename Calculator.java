@@ -1,9 +1,9 @@
 import java.util.*;
 public class Calculator{
 
-    public static int addition(int x, int y)
+    public static int multiplication(int x, int y)
     {
-        return x+y;
+        return x*y;
     }
 
     public static void main(String args[]){
